@@ -1,7 +1,6 @@
 # MachineLearning
 predict customer churn in python
-Project ini bertujuan untuk memprediksi apakah seorang pelanggan (customer) akan meninggalkan layanan (churn) atau tidak.
-Project ini menggunakan algoritma Random Forest Classifier untuk memprediksi customer churn. Sebelum dilakukan prediksi, dilakukan preprocessing data yang meliputi:
+Project ini menggunakan algoritma Decision Tree Classifier, Random Forest Classifier, KNN, SVM untuk memprediksi customer churn. Project ini bertujuan untuk memprediksi apakah seorang pelanggan (customer) akan meninggalkan layanan (churn) atau tidak. Sebelum dilakukan prediksi, dilakukan preprocessing data yang meliputi:
 
 Menangani missing values
 Encoding categorical features
